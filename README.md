@@ -1,2 +1,2 @@
 # csharp
-Petit Excercice en C# (Rappel, .NET, Framework, ...)
+Exo en C# (Base, .NET, Framework, ...)
