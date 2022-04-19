@@ -1,2 +1,2 @@
 # csharp
-Project In C#
+Petit Excercice en C# (Rappel, .NET, Framework, ...)
